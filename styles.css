@@ -157,4 +157,42 @@
     margin: 3em 2em;
 }
 
+.vagas__abertas h3 {
+    display: block;
+    max-width: 50%;
+    margin: 0 auto;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+    font-family: var(--font-principal);
+    font-size: 20px;
+}
+
+
+.vagas {
+    border: 1px solid #EAECF0;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    max-width: 50%;
+    margin: 0 auto;
+    margin-bottom: 1.6rem;
+    color: var(--cor-terciaria);
+}
+
+.titulo-vagas {
+    font-family: var(--font-principal);
+    font-size: 18px;
+}
+
+.informacoes {
+    margin-top: 2em;
+} 
+
+.informacoes span {
+    font-family: var(--font-principal);
+    color: var(--color-text);
+    font-size: 16px;
+    margin-right: 1.5rem;
+}
+
 
